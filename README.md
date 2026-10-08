@@ -117,16 +117,26 @@ Stock price prediction project exploring supervised machine learning models and 
 
 ---
 
+
 <div align="center">
 
-### ✨ Let's Connect!
+<h3>🤝 Let's Connect!</h3>
 
-I'm always interested in learning, collaboration, and new development opportunities.
+<p>
+  I'm always open to collaboration,
+  learning opportunities, and exciting projects.
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neslihanmustak)
+<a href="https://www.linkedin.com/in/neslihan-mustak-3614b6264/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://github.com/neslihanmustak">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-*"Code. Learn. Improve. Repeat."*
+<br/><br/>
+
+<i>Code. Learn. Improve. Repeat.</i>
 
 </div>
